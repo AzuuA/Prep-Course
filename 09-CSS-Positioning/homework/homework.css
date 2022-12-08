@@ -16,24 +16,40 @@ text-align: center;
 
 /* Acá va tu código */
 
-
+#ejercicioDos{
+    display: none;
+}
 
 /* Ejercicio 3: */
 
 /* Acá va tu código */
-
-
+#ejercicioTres{
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
-
+#ejercicioCuatro{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
 
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
-
+#ejercicioCinco{
+    display: -webkit-flex;
+  display:  flex;
+  -webkit-align-items: center;
+          align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row-reverse;
+}
 
 
 /* Ejercicio 6. */
